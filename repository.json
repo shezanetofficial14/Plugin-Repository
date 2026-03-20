@@ -1,6 +1,16 @@
 {
 	"plugins": [
 		{
+			"id": "MIKROMON",
+			"name": "MIKROMON | Paid Plugin",
+			"description": "MikroTik monitoring plugin for PHPNuxBill with real-time PPPoE traffic, bandwidth, CPU, memory, uptime, usage history, remote access & port forwarding.",
+			"ispaid": true,
+			"author": "ExO",
+			"url": "https://t.me/Exoforb",
+			"github": "https://github.com/ExodiaForb-Plugin/Mikromon",
+			"last_update": "2026-03-21"
+		},
+		{
 			"id": "Alternative-WhatsApp-Gateway-Plugin-for-PHPNuxBill",
 			"name": "Alternative WhatsApp Gateway Plugin",
 			"description": "This plugin is created to provide an alternative WhatsApp gateway for PHPNuxBill. It allows users to send and receive messages via WhatsApp using a custom gateway.",
